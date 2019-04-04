@@ -1,17 +1,19 @@
 {
-  "name": "ttexp",
+  "name": "nodejs-express",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "cors": "^2.8.5",
     "express": "^4.16.4",
-    "twilio": "^3.30.0"
+    "helmet": "^3.16.0",
+    "http": "0.0.0",
+    "promise-mysql": "^3.3.1",
+    "twilio": "^3.30.0",
+    "winston": "^3.2.1"
+  },
+  "scripts": {
+    "start": "node ."
   }
 }

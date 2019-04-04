@@ -1,0 +1,24 @@
+{"level":"info","message":"Hello distributed log files!"}
+{"message":"Hello again distributed logs","level":"info"}
+{"level":"info","message":"Todo list fetched."}
+{"level":"info","message":"New todo item saved."}
+{"level":"info","message":"Todo list fetched."}
+{"level":"info","message":"Todo list fetched."}
+{"level":"info","message":"Todo list fetched."}
+{"level":"info","message":"Todo list fetched."}
+{"level":"info","message":"Todo list fetched."}
+{"level":"info","message":"Todo list fetched."}
+{"level":"info","message":"Todo list fetched."}
+{"level":"info","message":"New todo item saved."}
+{"level":"info","message":"Saving a new todo item."}
+{"level":"info","message":"Saving a new todo item."}
+{"level":"info","message":"fetching todo list."}
+{"level":"info","message":"fetching todo list."}
+{"level":"info","message":"Saving a new todo item."}
+{"level":"error","message":"It was not possible to save the new todo item.ReferenceError: data is not defined"}
+{"level":"info","message":"Saving a new todo item."}
+{"level":"info","message":"fetching todo list."}
+{"level":"info","message":"Saving a new todo item."}
+{"level":"info","message":"Fetching todo list."}
+{"level":"error","message":"It was not possible to fetch the todo list.Code intended to throw an error."}
+{"level":"info","message":"Fetching todo list."}
